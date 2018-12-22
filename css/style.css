@@ -1,0 +1,40 @@
+body
+{
+  padding : 2% 10% 0% 10%;
+  //margin: 0px:
+  width: auto;
+  background-color: #bcabca;
+  font-family: "Helvetica";
+}
+intput[type=checkbox]
+{
+  transform: scale(1.5); 
+}
+table
+{
+  border: black solid 5px;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+td,th
+{
+  border: black sold 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+input[type=submit]
+{
+  margin-top: 50px;
+  margin-left: 45%;
+  border: 0px;
+  height: 30px;
+  width: 150px;
+  font-family: 'Verdana';
+  padding: auto;
+  color: white;
+  border-radius: 15px;
+  font-size: 15px;
+  background-color: blue;
+}
